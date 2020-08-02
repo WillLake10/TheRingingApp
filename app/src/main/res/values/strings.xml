@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">The Ringing App</string>
+    <string name="add_method">Add Method</string>
+    <string name="hint_notation">Notation…</string>
+    <string name="hint_proper">Method Proper…</string>
+    <string name="hint_num_of_bells">Number of Bells…</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Method not saved because a data field is empty.</string>
+    <string name="search_hint">Search…</string>
+    <string name="action_settings">Settings</string>
+    <string name="toolbar_title">Contacts</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_list_item">ListItemActivity</string>
+</resources>
